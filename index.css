@@ -68,6 +68,7 @@
 
 .initial-selection card p {
   text-align: justify;
+
   padding: 0 16px 16px 16px;
   margin: 0;
 }
@@ -125,6 +126,11 @@
   width: 30%;
   padding: 16px;
   text-align: justify;
+}
+
+.texto-wrapper p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.1rem;
 }
 
 .texto-wrapper h1 {
