@@ -3,6 +3,6 @@ Repositório de desenvolvimento do site da empresa **Dimensio Projetos e Constru
 
 O deploy pode ser encontrado no link:
 
-https://dimensioprojetos.vercel.app/
+https://dimensio.vercel.app/
 
 Site desenvolvido utilizando HTML + CSS e JS.
